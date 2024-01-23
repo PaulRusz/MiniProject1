@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0px;
+}
+
+.header {
+    padding: 20px;
+    font-family: "Times New Roman";
+    font-style: bold;
+    font-size: 2em;
+    background-color: silver;
+    text-align: center;
+    word-spacing: 15px;
+}
+
+.header2 {
+    padding: 5px;
+    background-color: burlywood;
+}
+
+main {
+    text-align: center;
+    font-size: 1em;
+    background-color:antiquewhite
+}
+
+img {
+    position: relative;
+}
+
+.contact-me {
+    text-align: center;
+    background-color: burlywood
+}
+
+u {
+    font-size: 2em;
+}
+
+.footer {
+    font-family: "Times New Roman";
+    padding: 10px;
+    text-align: center;
+    background-color: silver;
+}
